@@ -1,0 +1,167 @@
+[
+    {
+        "topic": "home",
+        "heading": "Home",
+        "sections":[
+            {
+                "mh":"Glycolysis",
+                "mb":"Glycolysis (Emdben-Meyerhof-Parnas Pathway) is a biochemical pathway that breaks down 1 molecule of glucose through a series of reactions, giving energy and 2 molecules of pyruvate. Pyruvate is a 'Jack-of-all-trade' as you might call it as it is a main intermediate in a lot of reactions like Gluconeogenesis, Glycogenolysis, Citric Acid Cycle, to mention a few"
+            },
+            {
+                "mh": "Urea cycle",
+                "mb": "This is a biomedical pathway that 'reforms' the toxic ammonia into water soluble urea that can be easily filtered out of the blood by the kidneys in form of urine. The Urea Cycle is also called the Ornithine Pathway or the Krebs-Henseleit Pathway"
+            },
+            {
+                "mh": "Citric Acid Cycle",
+                "mb": "This is the biochemical pathway in which pyruvate goes through a series of reactions to produce reducing equivalents that produce energy (in form of ATP) in the ETC (Electron Transport Chain). It is also called the Kreb's cycle or the Tricarboxylic Acid (TCA)"
+            }
+        ]
+    },
+    {
+        "topic": "urea",
+        "heading": "Urea cycle",
+        "sections": [
+            {
+                "mh": "Introduction",
+                "mb": "This is a biomedical pathway that 'reforms' the toxic ammonia into water soluble urea that can be easily filtered out of the blood by the kidneys in form of urine. The Urea Cycle is also called the Ornithine Pathway or the Krebs-Henseleit Pathway."
+            },{
+                "mh": "Equation",
+                "mb": "NH<sub>4</sub><sup>+</sup> + HCO<sub>3</sub><sup>-</sup> + Aspartate + 3ATP <i class ='fas fa-long-arrow-alt-right'></i> Fumarate + Urea + 2ADP + 2P<sub>i</sub> + PP<sub>i</sub> + AMP"
+            },{
+                "mh": "Site",
+                "mb": "Occurs in the cytoplasm and mitochondrion of hepatocytes (liver cells)"
+            },{
+                "mh": "Biomedical Importance",
+                "mb": "It helps to convert toxic ammonia to urea, a water soluble compind that is less toxic to the body and can be easily excreted. "
+        },{
+            "mh": "Pathway",
+            "mb": "<b>Mitochondrial Pathway</b><li>Ammonia, a by product from amino acid metabolism is combined with bicarbonate to give carbamoyl phosphate, this is done by the ligase 'Carbamoyl Phosphate Synthethase 1 (CPS 1)' This reaction occurs in the mitochondrion of the liver cells and requires 2ATP (each converted to ADP and P<sub>i</sub>) to proceed.</li><li>Carbamoyl phosphate is combined with ornithine to give citrulline and this reaction is catalyzed by Ornithine Trans Carbamoylase (OTC).</li><p><br><b>Cytosolic Pathway</b></p><li>Citrulline moves to the cytosol where it combines with aspartate to give argininosuccinate. This reaction is catalyzed by the enzyme argininosucinnate synthethase and requires 1ATP (ATP is converted to AMP and PP<sub>i</sub></li><li>Argininosuccinatre is cleaved with the help of Arginosuccinate Lyase to give Arginine and Fumarate, that can go into the citric acid cycle.</li><li>Arginine is also cleaved to give Urea as a byproduct and Ornithine which goes back into the mitochondrion and is recycled. Urea diffuses into the blood to be excreted by the kidney</li>"
+        },{
+            "mh": "Images",
+            "mb": "<img src='/img/urea.png'><br><img src='/img/urea002.png'>"
+        },{
+            "mh": "Regulation",
+            "mb": "The rate limiting enzyme of the urea cycle is <b>Carbamoyl Phosphate Synthethase 1 (CPS 1)</b><li>N-Acetylglutamate (+)</li>"
+        },{
+            "mh": "Energetics",
+            "mb": "<li>2ATP TO 2ADP(and 2P<sub>i</sub>) _ -2ATP</li><li>1ATP to 1AMP(and PP<sub>i</sub>) _ -2ATP</li><li>1NADH from fumarate (TCA) _ +2.5ATP</li><br><p><b>3ATP are used but due to the fact that ATP is converted to AMP four high energy bonds are broken (an equivalent of 4ATP is used)</b></p>"
+        },{
+            "mh": "Clinical Correlates",
+            "mb": "<b>Hyperammonemia</b><br><li>Type 1 hyperammonemia _ Carbomyl Phosphate Syntethase Deficiency</li><li>Type 2 hyperammonemia _ Ornithine Trans Carbomylase Deficienccy</li><li>Type 3 hyperammonemia _ N-Acetyl Glutamate Synthase Deficiency</li><br><li>Citrullinemia _ Argininosuccinate Syntethase Deficiency</li><li>Argininosuccinate aciduria _ Argininosuccinate lyase deficiency</li><li>Hyperarginemia _ Arginase Deficiency</li>"
+        }
+        ]
+    },
+    {
+        "topic": "glycolysis",
+        "heading": "Glycolysis",
+        "sections": [
+            {
+                "mh": "Definition",
+                "mb": "Glycolysis, also called Embden Meyerhof Pathwway is a biochemical process that describes conversion of glucose to pyruvate(aerobic) or lactate(anaerobic)"
+            },{
+                "mh": "Equation",
+                "mb": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub> + 32ADP + 32P<sub>i</sub> <i class ='fas fa-long-arrow-alt-right'></i> 6CO<sub>2</sub> + 6H<sub>2</sub>O + 32ATP + 32OH<sup>-</sup>"
+            },{
+                "mh": "Site",
+                "mb": "Cytoplasm of all cells"
+            },{
+                "mh": "Biomedical importance",
+                "mb": "<li>It is the most ancient evolutionarily advanced pathway</li><li>Takes place in all cells and also during anaerobic conditions</li><li>Provides Glucose-6-Phosphate for the Pentose Phosphate Pathway and other reasources for synthesis of other compounds</li>"
+            },{
+                "mh": "Pathway",
+                "mb": "<li>In the first reaction, Glucose is phosphorylated to Glucose-6-Phosphate by an enzyme called a HEXOKINASE (glucokinase in the liver). One ATP is expended in this reaction</li><li>In the second reaction, Glucose-6-P is isomerized to give Fructose-6-P by the enzyme PHOSPHOGLUCOISOMERASE</li><li>In the third reaction, Fructose-6-P is phosphorylated a second time to Fructose-1,6-bisphosphate. Another ATP is expended in this reaction and the catalysing enzyme is PHOSPHOFRUCTOKINASE 1</li><li>In the fourth reaction, F-1,6-BP is cleaved using an enzyme called ALDOLASE to form two 3C molecules; Glyceraldehyde-3-P (G3P) and Dihydroxyacetonephosphate (DHAP) The DHAP is converted to G3P by an enzyme called TRIOSE PHOSPHATE ISOMERASE. This means that there are now two molecules of G3P meaning the rest of the reactions occur twice for one Glu. molecule. This also is the end of the energy deposition process in glycolysis</li><br><li>In the fifth reaction,G3P is phosphorylated using the G3P DEHYDROGENASE. Here there is formation of reducing equivalent that can later go into the Electron Transport Chain (ETC) to produce energy. In this reaction, the reducing molecule is NADH + H<sup>+</sup> from NAD<sup>+</sup> and the resulting molecule is 1,3-bisphosphoglycerate (1,3BPG)</li><li>In the next reaction, there is dephosphorylation of 1,3BPG by 1,3BPG KINASE to form 3-phosphoglycerate. An ATP molecule is produced by phosphorylation of ADP to give ATP</li><li>Next, an isomerization of 3-PG occurs to give 2-phosphoglycerate via the enzyme 3-PHOSPHOGLYCERATE MUTASE</li><li>Now a dehydration reaction by the enzyme ENOLASE converts 2PG to phosphoenolpyruvate (PEP) water is removed here</li><li>This next reaction entails dephosphorylation of PEP to give <b>PYRUVATE</b>. This is coupled with the phosphorylsyion of ADP to give one ATP molecule an the enzyme for this reaction is PYRUVATE KINASE</li><li>Normally, under aerobic conditions the previous reaction would be the last step in glycolysis but in anerobic conditions, there is another reaction that converts pyruvate to lactate via the enzyme LACTATE  DEHYDROGENASE. This is coupled with the usage of the reducing compound produced before to NAD<sup>+</sup></li><br><li>An imprtant note is that <b>from the cleavage process onward, the reactions occur twice for one molecule of glucose</b></li>"
+            },{
+                "mh": "Images",
+                "mb": "<img src='/img/glycolysis.png'><br><img src='/img/glycolysis002.png'>"
+            },{
+                "mh": "Regulation",
+                "mb": "Glycolysis is regulated via these enzymes // hormones:<p><b>Regulatory Enzymes</b></p><li>Hexokinase</li><li>Phosphofructokinase 1 (PFK 1) -> <b>Rate Limiting Enzyme</b></li><li>Pyruvate Kinase</li><br><p><b>Others</b></p><li>Insulin (+)</li><li>Glucagon (-)</li><li>Fructose-2,6-BP (+)</li><li>ATP (-)</li><li>Citrate (-)</li><li>AMP (+)</li>"
+            },{
+                "mh": "Inhibition",
+                "mb": "<li>Arsenate (Uncoupler of Glycolytic ATP Production)</li><li>Flourite</li><li>Iodoacetate</li><li>Citrate</li>"
+            },{
+                "mh": "Energetics",
+                "mb": "<p><b>Aerobic Conditions</b></p><li>Hexokinase _ -1ATP</li><li>Phosphofructokinase _ -1ATP</li><li>Glyceraldehyde-3-P-Dehydrogenase _ +5ATP</li><li>1,3-Bisphosphoglycerate Kinase _ +2ATP</li><li>Pyruvate Kinase _ +2ATP</li><li><b>Total _ +7ATP</b></li><br><p><b>Anerobic Conditions</b></p><li>Hexokinase _ -1ATP</li><li>Phosphofructokinase _ -1ATP</li><li>Glyceraldehyde-3-P-Dehydrogenase _ +5ATP</li><li>1,3-Bisphosphoglycerate Kinase _ +2ATP</li><li>Pyruvate Kinase _ +2ATP</li><li>Lactate Dehydrogenase _ -5ATP</li><li><b>Total _ +2ATP</b></li><br><li><b>1 NADH _ 2.5ATP</b></li>"
+            },{
+                "mh":"Clinical Correlates",
+                "mb": "<li>Hexokinase Deficiency</li><li>Lactic Acidosis</li><li>Pyruvate Kinase Deficiency</li>"
+            },{
+                "mh": "Summary",
+                "mb": "<li>Glycolysis is a biochemical pathway that breaks down 1 molecule of glucose through a series of reactions, giving energy and 2 molecules of pyruvate</li><li>Pyruvate is a 'Jack-of-all-trade' as you might call it as it is a main intermediate in a lot of reactions like Gluconeogenesis, Glycogenolysis, Citric Acid Cycle to mention a few.</li>"
+            }
+        ]
+    },
+    {
+        "topic": "tca",
+        "heading": "Citric Acid Cycle",
+        "sections": [
+            {
+                "mh": "Definition",
+                "mb": "This is the biochemical pathway in which pyruvate goes through a series of reactions to produce reducing equivalents that produce energy (in form of ATP) in the ETC (Electron Transport Chain). It is also called the Kreb's cycle or the Tricarboxylic Acid (TCA)"
+            },{
+                "mh": "Site",
+                "mb": "Occurs in the inner mitochondrial matrix // mitochondrial matrix of cells (except in cells that do not use oxygen e.g. mature erythrocytes)"
+            },{
+                "mh": "Equation",
+                "mb": "Acetyl-CoA + 3H<sub>2</sub>O + P<sub>i</sub> + FAD + GDP + 3NAD<sup>+</sup> <i class = 'fas fa-long-arrow-alt-right'></i> 2CO<sub>2</sub> + 3NADH + 3H<sup>+</sup> + FADH<sub>2</sub> + GTP + CoASH"
+            },{
+                "mh": "Biomedical Importance",
+                "mb": "<li>It is an ampiphatic pathway, meaning that  it combines catabolism (breaking down) and anabolism (building up)</li><li>It completely oxidizes Acetyl-CoA</li><li>During metabolism, all food substances will go through the Citric Acid Cycle</li><li>Produces a lot of reducing equivalent for ETC</li><li>Some of its intermediates are important in biosynthesis of other compounds. For example, Succinyl-CoA is essential for heme synthesis that can be used to form various substances like hemoglobins and cytochromes</li>"
+            },{
+                "mh": "Pathway",
+                "mb": "<li>The pyruvate gotten from glycolysis moves into the mitochondrial matrix where it is oxidized to give acetyl-CoA. This reaction produces 1 NADH from NAD<sup>+</sup> and is catalyzed by <b>Pyruvate Dehydrogenase</b>. acetyl-CoA reacts with oxaloacetate (OAA), a 4 Carbon Compound to give citrate (6C) via the enzyme <b>Citrate Synthase</b>. This reaction gives off CoASH as a by product.</li> <li>Citrate is then dehydrated to give Cis-aconitate and rehydrated to give Iso-Citrate. Both reactions essentially isomerize citrate to iso-citrate and are catalyzed by the same enzyme: <b>Aconitase</b>.</li><li>Iso-Citrate is then oxidized to give Oxalo-Succinate. This is coupled to the reduction of NAD<sup>+</sup> to NADH and is catalyzed by <b>Isocitrate Dehydrogenase</b>.</li><li>Oxalo-Succinate is decarboxylated (CO<sub>2</sub> removed) to form alpha-KetoGlutarate(alpha-KG), a 5 Carbon compound.</li><li>alpha-KetoGlutarate has a couple things done to it: It is oxidized coupled with reduction of NAD<sup>+</sup> to NADH, CoASH is reintroduced into the structure, It is decarboxylated. All of these reactions, catalyzed by <b>alpha-KetoGlutarate Dehydrogenase</b> produce Succinyl CoA (4C), which can go on to form other substances needed in the body.</li><li>Succinyl CoA then has the CoA expelled with the formation of GTP from GDP to form Succinate with the help of <b>Succinate Thiokinase</b>.</li><li>Succinate is then oxidized to form Fumarate with the production of FADH<sub>2</sub> (reducing equivalent) from FAD. Ubiquinone(Q) is reduced to Quinol(QH<sub>2</sub>) here. The enzyme here is <b>Succinate Dehydrogenase</b>.</li><li>Then Fumarate is hydrated to give Malate via the enzyme <b>Fumarase</b>.</li><li> Malate is finally oxidized one last time, to give Oxalo-acetate (4C). This is coupled to the reduction of NAD<sup>+</sup> to NADH and is catalyzed by <b>Malate Dehydrogenase</b>. From there, the cycle can restart with fresh batch of acetyl-CoA.</li><br><li><b>One thing to note is that for one molecule of Glucose, two molecules of pyruvate are produced (in glycolysis) meaning that the entire cycle happens twice for one molecule of glucose</b></li>"           
+            },{
+                "mh": "Images",
+                "mb": "<img src='/img/tca.png'><br><img src='/img/tca002.png'><br><img src= '/img/tca003.png'>"
+            },{
+                "mh": "Regulation",
+                "mb": "<li><b>The rate limiting step in the TCA is Isocitrate Dehydrogenase</b></li><li>Insulin (+)</li><li>Glucagon (-)</li><li>Hypoxia (-)</li><li>ATP (-)</li><li>Ca<sup>+</sup> (+)</li><li>ADP (+)</li>"
+            },{
+                "mh": "Inhibition",
+                "mb": "<li>Flouroacetate inhibits aconitase</li><li>Arsenate inhibits alpha-KetoGlutarate Dehydrogenase</li><li>Malolate inhibits Succinate Dehydrogenase</li>"
+            },{
+                "mh": "Anaplerotic Reactions",
+                "mb": "Because metabolism of all food substances must go through this pathway, some substances can 'enter' the pathway at different junctions: <li>alpha-KetoGlutarate - Arginine, Histidine, Proline (Glutamic Acid)</li><li>Oxaloacetate - Aspartate</li><li>Pyruvate - Tryptophan, Alanine</li><li>Fumarate - Phenylalanine, Tyrosine</li><li>Succinyl CoA - Metheonine, Isoleucine, Valine, Propionyl CoA</li>"
+            },{
+                "mh": "Energetics",
+                "mb": "<li><b>These energetics are for one molecule of glucose</b></li><br><B>OLD METHOD</B><li>8NADH _ +24ATP</li><li>2FADH _ +4ATP</li><li>2GTP _ +2ATP</li><li>Glycolysis _ +8ATP</li><li><b>Total _ +38ATP</b></li><br><B>NEW METHOD</B><li>8NADH _ +20ATP</li><li>2FADH _ +3ATP</li><li>2GTP _ +2ATP</li><li>Glycolysis _ +7ATP</li><li><b>Total _ +32ATP</b></li>"
+            },{
+                "mh":"Clinical Correlates",
+                "mb": "<li>Lactic Acidosis</li>"
+            }
+        ]
+    },
+    {
+        "topic": "gluconeogenesis",
+        "heading": "Gluconeogenesis",
+        "sections": [
+            {
+                "mh": "Definition",
+                "mb": "This is a process by which Glucose is derived from non-Carbohydrates sources"
+            },{
+                "mh": "Site",
+                "mb": "It occurs in the cytoplasm of hepatocytes"
+            },{
+                "mh":"Biomedical Importance",
+                "mb": "<li>It helps to get glucose from other food substances</li><li>It is the path to get glucose during periods of starvation</li>"
+            },{
+                "mh": "Sources",
+                "mb": "<li>Glycerol</li><li>Amino Acids</li><li>Propionic Acid</li><li>Lactic Acid</li>"
+            },{
+                "mh": "Common Pathway",
+                "mb": "The pyruvate formed goes in the mitochondrion and is converted oxaloacetate catalyzed by the Pyruvate carboxylase and co-factor biotin using up co<sub>2</sub> then oxaloacetate is shuttled into the cytosol using the malate-aspertate shuttle. The oxaloacetate now in the cytosol is converted into Phosphoenol Pyruvate (PEP) with the help of Phosphoenol Puruvate Carbpxykinase (PEPCK) using up one ATP equivalent (GTP-GDP). The reactions from PEP to glucose use the same enzymes as glycolysis since most of the reactions are reversible except: <ul><li><b>Reactions<br>I. Fructose-1,6-Bisphosphate <i class = 'fas fa-long-arrow-alt-right'></i> Fructose-6-Phosphate<br>II. Glucose-6-Phosphate <i class = 'fas fa-long-arrow-alt-right'></i> Glucose</b></li><br><b><li>Enzymes<br>I. Fructose-1,6-bisphosphatase<br>II. Glucose-6-phosphatase</li></b></li></ul> "
+            },{
+                "mh": "Individual reactions",
+                "mb": "<li>Amino Acid to Pyruvate <p>Alanine is the most common glucogenic amino acid and is transaminated into to pyruvate with the help of the Alanine Transferase (ALT) // Glutamic Pyruvate Transaminase (GPT), coupled with transformation of alpha-Ketoglutarate to Glutamate and the pyruvate formed goes into the common pathway.</p><ul><li><b>Alanine + alpha-KG <i class = 'fas fa-long-arrow-alt-right'></i> Pyruvate + Glutamate</b></li></ul></li><p>Aspartate is also transaminated in a similar path to Oxaloacetate but the enzyme in this case is Aspartate Transferase (AST) // Glutamic Oxaloacetate Transaminase (GOT)</p><ul><li><b>Aspartate + alpha-KG <i class = 'fas fa-long-arrow-alt-right'></i> Oxaloacetate + Glutamate</b></li></ul></li><br><li>Glycerol to DHAP <p>Glycerol is Phosphorylated to glycerol-3-phosphate using ATP. The G3P formed can go through one of two paths to form DHAP:<br><img src = '/img/glycerol.png'><br></li><li>Lactate to Pyruvate<p>Lactate is converted to pyruvate via Lactate Dehydrogenase</p><ul><li><b>Lactate <i class = 'fas fa-long-arrow-alt-right'></i> Pyruvate</b></li></ul></li><br><li>Fatty Acid (Propionyl CoA) to pyruvate<p>Propionyl CoA, gotten from beta-Oxidation of odd Carbon numbered fatty acids can be converted to Succinyl CoA, an intermediate of the Citric Acid Cycle that can go on to form Oxaloacetate and join the common pathway via this reaction<ul><li><b>Propionyl-CoA <i class = 'fas fa-long-arrow-alt-right'></i> Methylmalonyl-CoA <i class = 'fas fa-long-arrow-alt-right'></i> Succinyl CoA</b></li></ul></p></li>"
+            },{
+                "mh": "Regulation",
+                "mb": "<li>Glucagon (+)</li><li>Insulin (-)</li><li>Starvation (+)</li><li>ATP (-)</li>"
+            },{
+                "mh": "Clinical Correlates",
+                "mb": "<li>Diabetes Mellitus</li>"
+            }
+        ]
+    }
+
+
+]
